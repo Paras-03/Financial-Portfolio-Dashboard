@@ -1,0 +1,115 @@
+{
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "United States",
+          "id": "USA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": []
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Canada",
+          "id": "CAN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": []
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "United Kingdom",
+          "id": "GBR"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": []
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Germany",
+          "id": "DEU"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": []
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "France",
+          "id": "FRA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": []
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "India",
+          "id": "IND"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": []
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "China",
+          "id": "CHN"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": []
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Brazil",
+          "id": "BRA"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": []
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Australia",
+          "id": "AUS"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": []
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Russia",
+          "id": "RUS"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": []
+        }
+      }
+    ]
+  }
+  
