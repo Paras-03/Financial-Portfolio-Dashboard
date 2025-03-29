@@ -1,11 +1,14 @@
 import React from "react";
+
 import { 
   Box, Button, Flex, Select, SimpleGrid, Text, Divider, Heading, Icon 
 } from "@chakra-ui/react";
+
 import { 
   LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, BarChart, Bar,
   PieChart, Pie, Cell, ScatterChart, Scatter, Legend
 } from "recharts";
+
 import { FiBarChart2, FiPieChart } from "react-icons/fi";
 import { FiTrendingUp } from "react-icons/fi";
 
